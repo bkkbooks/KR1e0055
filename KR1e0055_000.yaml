@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1e0055/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部五
+  hash: sha256:02dd33ef1c70b837406ca8d729e4163b1ab6b8a43895174682c3937c960ea212
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0055_WYG_000-1a, image: WYG0158/WYG0158-0509a.png}
+body:
+  text: 讀春秋編春秋類提要臣等謹按讀春秋編十二卷宋陳深撰深字子微平江人嘗題所居曰清全齊因以為號朱彜尊經義考載盧態蘇州志稱深生于宋宋亡篤志古學閉門著書天厯間奎章閣臣以能書薦潛匿不出考鄭元祐僑吳集有深次子植墓志據其所稱植以至正二十二年卒年七十則植生于至元三十年癸巳又自稱長於植一年少于深三十餘年則深之生當在開慶景定間宋亡之時僅及弱冠故至天厯間尚存也所著有讀易編讀詩編今並未見惟此書僅存其說大抵以胡氏為宗而兼採左氏蓋左氏身為魯史言必有據非公羊榖梁傳聞疑似者比自宋人喜以空言說春秋遂併其事實而疑之幾于束諸高閣深所推闡雖别無新異之見而獨能考據事實不為虛憍恃氣廢傳求經之髙論可謂篤實君子未可以平近忽之矣乾隆四十二年九月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:4547a345b81987554acd5917e97f224b7630b9df4647591f79ebf6ac4531dfd7
+metadata:
+  title: 讀春秋編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:14:43.068195'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1e0055/KR1e0055_000.txt
+hash: sha256:67d46873c37ebf9b2a4ea2434398e662239bc1ae271aa2a7b30815c40aa4255b
